@@ -46,21 +46,45 @@ const enes: FullStackDeveloper = {
 ## 🚀 Öne Çıkan Projeler
 
 <div align="center">
-
-### 🌐 Hayattan.net
-
-[![hayattan](https://github-readme-stats.vercel.app/api/pin/?username=eneskotay&repo=hayattan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE&description_lines_count=2)](https://github.com/EnesKotay/hayattan)
-
-> TypeScript ile geliştirilmiş modern bir web platformu. Kullanıcı deneyimi ve performans odaklı tasarım.
-
----
-
-### 💪 Fitness App — AI Destekli Spor Uygulaması
-
-[![Fitness_App](https://github-readme-stats.vercel.app/api/pin/?username=eneskotay&repo=Fitness_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE&description_lines_count=2)](https://github.com/EnesKotay/Fitness_App)
-
-> Flutter & Dart ile geliştirilmiş, yapay zeka destekli kişisel spor asistanı. Antrenman planlaması, ilerleme takibi ve AI önerileri.
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Hayattan.net</h3>
+      <div align="center">
+        <a href="https://github.com/EnesKotay/hayattan" target="_blank">
+          <img src="https://img.shields.io/badge/Kaynak%20Kod-A960EE?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://hayattan.net" target="_blank">
+          <img src="https://img.shields.io/badge/Canlı%20Site-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">Modern ve performans odaklı web platformu. Kullanıcı deneyimini ön planda tutan, sıfırdan inşa edilmiş tam yığın uygulama.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💪 Fitness App</h3>
+      <div align="center">
+        <a href="https://github.com/EnesKotay/Fitness_App" target="_blank">
+          <img src="https://img.shields.io/badge/Kaynak%20Kod-A960EE?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">Yapay zeka destekli kişisel spor asistanı. Antrenman planlaması, ilerleme takibi ve akıllı AI önerileri sunan mobil uygulama.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Powered-FF6B6B?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
