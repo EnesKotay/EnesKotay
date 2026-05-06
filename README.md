@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Enes%20Kotay&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Mobile%20%E2%80%A2%20Robotics%20%E2%80%A2%20AI&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Enes%20Kotay&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A960EE&center=true&vCenter=true&width=700&height=55&lines=Hayattan.net'i+sıfırdan+inşa+ettim+🌐;AI+destekli+Fitness+App+geliştirdim+💪;Teknofest+AGV+robotik+projesi+🤖;Her+zaman+yeni+bir+şey+öğreniyorum+📖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A960EE&center=true&vCenter=true&width=700&height=55&lines=Hayattan.net'i+sıfırdan+inşa+ettim+🌐;AI+destekli+Fitness+App+geliştirdim+💪;Full+Stack+Web+%26+Mobile+Developer+🚀;Her+zaman+yeni+bir+şey+öğreniyorum+📖)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,12 +26,11 @@
 const enes: FullStackDeveloper = {
   name:      "Enes Kotay",
   location:  "Türkiye 🇹🇷",
-  focus:     ["Web", "Mobile", "Robotics", "AI"],
+  focus:     ["Web", "Mobile", "AI"],
 
   flagship: {
-    web:    "hayattan.net  → TypeScript / Next.js",
-    mobile: "Fitness App   → Flutter / Dart + AI",
-    robot:  "Teknofest AGV → ROS2 / Python / C++",
+    web:    "hayattan.net → TypeScript / Next.js",
+    mobile: "Fitness App  → Flutter / Dart + AI",
   },
 
   currently: "Ölçeklenebilir sistemler & AI entegrasyonu",
@@ -62,14 +61,6 @@ const enes: FullStackDeveloper = {
 
 > Flutter & Dart ile geliştirilmiş, yapay zeka destekli kişisel spor asistanı. Antrenman planlaması, ilerleme takibi ve AI önerileri.
 
----
-
-### 🤖 Teknofest AGV — Otonom Kara Aracı
-
-[![teknofest-agv-explore](https://github-readme-stats.vercel.app/api/pin/?username=eneskotay&repo=teknofest-agv-explore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE)](https://github.com/EnesKotay/teknofest-agv-explore)
-
-> Teknofest yarışması için geliştirilen otonom kara aracı. ROS2, Python ve C++ kullanılarak SLAM & navigasyon sistemi kuruldu.
-
 </div>
 
 ---
@@ -94,12 +85,6 @@ const enes: FullStackDeveloper = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Robotics & AI**
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Database & DevOps**
 
@@ -153,7 +138,6 @@ const enes: FullStackDeveloper = {
 |:---|:---|
 | 🌐 | **hayattan.net** geliştirmeye devam ediyorum |
 | 💪 | **Fitness App**'e yeni AI özellikleri ekliyorum |
-| 🤖 | Robotik & otonom sistemler üzerine araştırma yapıyorum |
 | 📖 | Yazılım mimarisi & sistem tasarımı öğreniyorum |
 | 🤝 | Açık kaynak projelere katkı sağlamak istiyorum |
 
