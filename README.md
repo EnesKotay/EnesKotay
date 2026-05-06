@@ -1,40 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Enes%20Kotay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Lover&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Enes%20Kotay&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Mobile%20%E2%80%A2%20Robotics%20%E2%80%A2%20AI&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A960EE&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Enes+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;TypeScript+%26+React+Enthusiast+%E2%9A%A1;Always+learning+something+new+%F0%9F%93%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A960EE&center=true&vCenter=true&width=700&height=55&lines=Hayattan.net'i+sıfırdan+inşa+ettim+🌐;AI+destekli+Fitness+App+geliştirdim+💪;Teknofest+AGV+robotik+projesi+🤖;Her+zaman+yeni+bir+şey+öğreniyorum+📖)](https://git.io/typing-svg)
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/-eneskotay23@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eneskotay23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eneskotay)
-[![Twitter](https://img.shields.io/badge/-@eneskotay-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/eneskotay)
-[![Portfolio](https://img.shields.io/badge/-eneskotay.dev-000?style=flat-square&logo=vercel&logoColor=white)](https://eneskotay.dev)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=eneskotay&color=A960EE&style=flat-square&label=visitors)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eneskotay23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eneskotay)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eneskotay)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eneskotay.dev)
+[![Hayattan.net](https://img.shields.io/badge/Hayattan.net-A960EE?style=for-the-badge&logo=globe&logoColor=white)](https://hayattan.net)
+
+![Profile Views](https://komarev.com/ghpvc/?username=eneskotay&color=A960EE&style=for-the-badge&label=Ziyaretçi)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/EnesKotay/EnesKotay/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/EnesKotay/EnesKotay/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 Ben kimim?
 
 ```typescript
-const enes: Developer = {
-  name:     "Enes Kotay",
-  role:     "Full Stack Developer",
-  location: "Türkiye 🇹🇷",
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend:  ["Node.js", "Express", "Python"],
-    database: ["PostgreSQL", "MongoDB", "Redis"],
-    devops:   ["Docker", "Git", "Linux"],
+const enes: FullStackDeveloper = {
+  name:      "Enes Kotay",
+  location:  "Türkiye 🇹🇷",
+  focus:     ["Web", "Mobile", "Robotics", "AI"],
+
+  flagship: {
+    web:    "hayattan.net  → TypeScript / Next.js",
+    mobile: "Fitness App   → Flutter / Dart + AI",
+    robot:  "Teknofest AGV → ROS2 / Python / C++",
   },
-  currentFocus: "Yazılım mimarisi & ölçeklenebilir sistemler",
-  openTo:       "Freelance & açık kaynak projeler",
-  funFact:      "Kod yazarken müzik şart 🎵",
+
+  currently: "Ölçeklenebilir sistemler & AI entegrasyonu",
+  openTo:    "Freelance, açık kaynak & iş birlikleri",
+  contact:   "eneskotay23@gmail.com",
 };
 ```
 
@@ -42,11 +44,41 @@ const enes: Developer = {
 
 ---
 
+## 🚀 Öne Çıkan Projeler
+
+<div align="center">
+
+### 🌐 Hayattan.net
+
+[![hayattan](https://github-readme-stats.vercel.app/api/pin/?username=eneskotay&repo=hayattan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE&description_lines_count=2)](https://github.com/EnesKotay/hayattan)
+
+> TypeScript ile geliştirilmiş modern bir web platformu. Kullanıcı deneyimi ve performans odaklı tasarım.
+
+---
+
+### 💪 Fitness App — AI Destekli Spor Uygulaması
+
+[![Fitness_App](https://github-readme-stats.vercel.app/api/pin/?username=eneskotay&repo=Fitness_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE&description_lines_count=2)](https://github.com/EnesKotay/Fitness_App)
+
+> Flutter & Dart ile geliştirilmiş, yapay zeka destekli kişisel spor asistanı. Antrenman planlaması, ilerleme takibi ve AI önerileri.
+
+---
+
+### 🤖 Teknofest AGV — Otonom Kara Aracı
+
+[![teknofest-agv-explore](https://github-readme-stats.vercel.app/api/pin/?username=eneskotay&repo=teknofest-agv-explore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE)](https://github.com/EnesKotay/teknofest-agv-explore)
+
+> Teknofest yarışması için geliştirilen otonom kara aracı. ROS2, Python ve C++ kullanılarak SLAM & navigasyon sistemi kuruldu.
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Frontend**
+**Web & Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -54,24 +86,29 @@ const enes: Developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Database**
+**Mobile & Backend**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Robotics & AI**
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Database & DevOps**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -81,10 +118,10 @@ const enes: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eneskotay&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneskotay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eneskotay&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneskotay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&text_color=C9D1D9&langs_count=8" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eneskotay&theme=tokyonight&hide_border=true&background=0D1117&ring=A960EE&fire=FF6B6B&currStreakLabel=A960EE" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eneskotay&theme=tokyonight&hide_border=true&background=0D1117&ring=A960EE&fire=FF6B6B&currStreakLabel=A960EE&sideLabels=C9D1D9&dates=C9D1D9" width="500"/>
 
 </div>
 
@@ -94,27 +131,17 @@ const enes: Developer = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eneskotay&bg_color=0D1117&color=A960EE&line=A960EE&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eneskotay&bg_color=0D1117&color=A960EE&line=A960EE&point=FFFFFF&area=true&area_color=A960EE&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Başarılar
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=eneskotay&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🚀 Projeler
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eneskotay&repo=EnesKotay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE)](https://github.com/EnesKotay)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=eneskotay&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -122,21 +149,30 @@ const enes: Developer = {
 
 ## 🎯 Şu Anda
 
-- 🔨 &nbsp; Full stack projeler geliştiriyorum
-- 📖 &nbsp; Yazılım mimarisi & sistem tasarımı çalışıyorum
-- 🤝 &nbsp; Açık kaynak projelere katkı sağlamak istiyorum
-- 💬 &nbsp; Web geliştirme hakkında sohbet etmekten mutluluk duyarım
+| | |
+|:---|:---|
+| 🌐 | **hayattan.net** geliştirmeye devam ediyorum |
+| 💪 | **Fitness App**'e yeni AI özellikleri ekliyorum |
+| 🤖 | Robotik & otonom sistemler üzerine araştırma yapıyorum |
+| 📖 | Yazılım mimarisi & sistem tasarımı öğreniyorum |
+| 🤝 | Açık kaynak projelere katkı sağlamak istiyorum |
 
 ---
 
 <div align="center">
 
-**Birlikte bir şeyler üretelim!** 🚀
+### Birlikte harika şeyler inşa edelim! 🚀
 
-*"First make it work, then make it right, then make it fast."*
+[![hayattan.net](https://img.shields.io/badge/🌐%20hayattan.net-A960EE?style=for-the-badge)](https://hayattan.net)
+&nbsp;
+[![Fitness App](https://img.shields.io/badge/💪%20Fitness%20App-02569B?style=for-the-badge)](https://github.com/EnesKotay/Fitness_App)
 
-⭐ Projelerimi beğendiysen yıldız bırakmayı unutma!
+<br/>
+
+*"Önce çalıştır, sonra güzelleştir, sonra hızlandır."*
+
+⭐ Projeleri beğendiysen yıldız bırakmayı unutma!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
