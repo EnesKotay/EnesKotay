@@ -127,10 +127,12 @@ const enes: FullStackDeveloper = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eneskotay&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=A960EE&icon_color=A960EE&text_color=C9D1D9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneskotay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960EE&text_color=C9D1D9&langs_count=8" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eneskotay&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eneskotay&theme=tokyonight" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eneskotay&theme=tokyonight&hide_border=true&background=0D1117&ring=A960EE&fire=FF6B6B&currStreakLabel=A960EE&sideLabels=C9D1D9&dates=C9D1D9" width="500"/>
+<img src="https://streak-stats.demolab.com?user=eneskotay&theme=tokyonight&hide_border=true&background=0D1117&ring=A960EE&fire=FF6B6B&currStreakLabel=A960EE&sideLabels=C9D1D9&dates=C9D1D9" width="500"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eneskotay&theme=tokyonight" width="700"/>
 
 </div>
 
