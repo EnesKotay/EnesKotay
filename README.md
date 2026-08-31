@@ -11,112 +11,45 @@ Web ve mobil tarafta uçtan uca ürün geliştiriyorum. Şu anki odağım ölçe
 
 ## Öne çıkan projeler
 
-### 🧩 Otizm Destek Platformu
-Otizmli bireyler ve aileleri için tam yığın destek platformu. Rol tabanlı kullanıcı yönetimi, Redis ile önbellekleme ve tamamen bulut üzerinde dağıtık bir deployment yapısı.
+### 🧩 [Otizm Destek Platformu](https://github.com/EnesKotay/otizm-destek-platformu) · [Canlı →](https://otizm-destek-platformu.vercel.app)
+Otizmli çocukların ailelerini, terapist ve doktorları tek platformda buluşturan gelişim takip sistemi. Rol tabanlı yetkilendirme, gelişim grafikleri, randevu ve BEP raporu yönetimi, Gemini AI ile davranış örüntüsü analizi.
 
-`Spring Boot` `React + Vite` `PostgreSQL` `Redis` `Render / Vercel / Neon / Upstash`
+`Java 21` `Spring Boot 3` `React 18 + Vite` `TypeScript` `PostgreSQL` `Redis` `Docker`
 
-<!-- TODO: Repo public değilse public yap ve linkini buraya ekle. -->
-<!-- TODO: 1 ekran görüntüsü ekle. -->
+### 🌐 [hayattan.net](https://github.com/EnesKotay/hayattan) · [Canlı →](https://hayattan.net)
+Sıfırdan yazdığım içerik platformu. Sunucu tarafı render, admin paneli üzerinden içerik yönetimi ve PDF çıktı desteği.
 
-### 🌐 [hayattan.net](https://github.com/EnesKotay/hayattan) · [Canlı site →](https://hayattan.net)
-Sıfırdan yazdığım içerik platformu. Sunucu tarafı render, dinamik içerik yönetimi ve Neon üzerinde barındırılan PostgreSQL veritabanı.
-
-`TypeScript` `Next.js` `Tailwind CSS` `PostgreSQL (Neon)`
-
-<!-- TODO: Ekran görüntüsü veya kısa GIF ekle. -->
+`TypeScript` `Next.js` `Tailwind CSS` `Prisma` `PostgreSQL`
 
 ### 💪 [FitMentor](https://github.com/EnesKotay/Fitness_App)
 Yapay zekâ destekli kişisel antrenman asistanı. Antrenman planlama, ilerleme takibi ve cihaz üzerinde çalışan TensorFlow Lite modeliyle görüntü sınıflandırma.
 
-`Flutter` `Dart` `Firebase` `TensorFlow Lite`
+`Flutter` `Dart` `Supabase` `TensorFlow Lite`
 
-<!-- TODO: Store linki veya ekran görüntüleri ekle. -->
+### 🤖 [Teknofest AGV](https://github.com/EnesKotay/teknofest-agv-explore)
+ROS 2 tabanlı otonom keşif robotu. Frontier-based exploration algoritması, SLAM ile gerçek zamanlı harita oluşturma ve Nav2 ile otonom navigasyon.
+
+`ROS 2` `Python` `C++` `SLAM` `Nav2`
 
 ---
 
 ## Kullandığım teknolojiler
 
-**Diller** — TypeScript · JavaScript · Dart · Java · Python · C#
+**Diller** — TypeScript · JavaScript · Java · Dart · Python · C# · C++
 
-**Frontend** — React · Next.js · Tailwind CSS
+**Frontend** — React · Next.js · Vite · Tailwind CSS
 
 **Backend** — Spring Boot · Node.js / Express
 
-**Mobil** — Flutter · Firebase
+**Mobil** — Flutter
 
-**Veri & Altyapı** — PostgreSQL · Redis · Docker · Git · Linux
+**Veri & Altyapı** — PostgreSQL · Redis · Prisma · Supabase · Docker · Git · Linux
 
 ---
 
 ## Şu anda
 
-- `hayattan.net` üzerinde performans ve içerik altyapısını geliştiriyorum
+- Otizm Destek Platformu'nu geliştirmeye devam ediyorum
 - FitMentor'a yeni yapay zekâ özellikleri ekliyorum
 - Yazılım mimarisi ve sistem tasarımı üzerine çalışıyorum
 - Açık kaynak katkılarına ve iş birliklerine açığım
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=EnesKotay&show_icons=true&hide_border=true&theme=tokyonight&hide=issues" height="150" alt="GitHub istatistikleri" />
-# Enes Kotay
-
-**Full Stack Developer** · Web · Mobil · AI
-Bilgisayar Mühendisliği — Sivas Cumhuriyet Üniversitesi, 2026
-
-Web ve mobil tarafta uçtan uca ürün geliştiriyorum. Şu anki odağım ölçeklenebilir backend mimarileri ve yapay zekâ özelliklerinin gerçek ürünlere entegrasyonu.
-
-📫 eneskotay23@gmail.com · [LinkedIn](https://linkedin.com/in/eneskotay) · [hayattan.net](https://hayattan.net)
-
----
-
-## Öne çıkan projeler
-
-### 🧩 Otizm Destek Platformu
-Otizmli bireyler ve aileleri için tam yığın destek platformu. Rol tabanlı kullanıcı yönetimi, Redis ile önbellekleme ve tamamen bulut üzerinde dağıtık bir deployment yapısı.
-
-`Spring Boot` `React + Vite` `PostgreSQL` `Redis` `Render / Vercel / Neon / Upstash`
-
-<!-- TODO: Repo public değilse public yap ve linkini buraya ekle. -->
-<!-- TODO: 1 ekran görüntüsü ekle. -->
-
-### 🌐 [hayattan.net](https://github.com/EnesKotay/hayattan) · [Canlı site →](https://hayattan.net)
-Sıfırdan yazdığım içerik platformu. Sunucu tarafı render, dinamik içerik yönetimi ve Neon üzerinde barındırılan PostgreSQL veritabanı.
-
-`TypeScript` `Next.js` `Tailwind CSS` `PostgreSQL (Neon)`
-
-<!-- TODO: Ekran görüntüsü veya kısa GIF ekle. -->
-
-### 💪 [FitMentor](https://github.com/EnesKotay/Fitness_App)
-Yapay zekâ destekli kişisel antrenman asistanı. Antrenman planlama, ilerleme takibi ve cihaz üzerinde çalışan TensorFlow Lite modeliyle görüntü sınıflandırma.
-
-`Flutter` `Dart` `Firebase` `TensorFlow Lite`
-
-<!-- TODO: Store linki veya ekran görüntüleri ekle. -->
-
----
-
-## Kullandığım teknolojiler
-
-**Diller** — TypeScript · JavaScript · Dart · Java · Python · C#
-
-**Frontend** — React · Next.js · Tailwind CSS
-
-**Backend** — Spring Boot · Node.js / Express
-
-**Mobil** — Flutter · Firebase
-
-**Veri & Altyapı** — PostgreSQL · Redis · Docker · Git · Linux
-
----
-
-## Şu anda
-
-- `hayattan.net` üzerinde performans ve içerik altyapısını geliştiriyorum
-- FitMentor'a yeni yapay zekâ özellikleri ekliyorum
-- Yazılım mimarisi ve sistem tasarımı üzerine çalışıyorum
-- Açık kaynak katkılarına ve iş birliklerine açığım
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=EnesKotay&show_icons=true&hide_border=true&theme=tokyonight&hide=issues" height="150" alt="GitHub istatistikleri" />
