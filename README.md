@@ -1,37 +1,37 @@
 # Enes Kotay
 
-**Full Stack Developer · Web, Mobile & AI**
+**Full Stack Geliştirici · Web, Mobil ve Yapay Zekâ**
 
-I build end-to-end web and mobile applications, with a focus on scalable backend architectures and integrating AI into real-world products.
+Web ve mobil uygulamaları uçtan uca geliştiriyorum. Ölçeklenebilir backend mimarileri ve yapay zekâ özelliklerinin gerçek ürünlere entegrasyonu üzerine çalışıyorum.
 
-Computer Engineering · Sivas Cumhuriyet University · 2026
+Bilgisayar Mühendisliği · Sivas Cumhuriyet Üniversitesi · 2026
 
-[Email](mailto:eneskotay23@gmail.com) · [LinkedIn](https://linkedin.com/in/eneskotay) · [Website](https://hayattan.net)
+[E-posta](mailto:eneskotay23@gmail.com) · [LinkedIn](https://linkedin.com/in/eneskotay) · [Web sitesi](https://hayattan.net)
 
-## Featured Projects
+## Öne Çıkan Projeler
 
-| Project | Overview | Built with |
+| Proje | Açıklama | Teknolojiler |
 | --- | --- | --- |
-| **[Otizm Destek Platformu](https://github.com/EnesKotay/otizm-destek-platformu)**<br>[Live demo ↗](https://otizm-destek-platformu.vercel.app) | An autism support platform connecting families, therapists, and doctors. Includes role-based access, developmental progress tracking, appointments, individualized education plan reports, and Gemini-powered behavioral pattern analysis. | Java 21 · Spring Boot 3 · React 18 · Vite · TypeScript · PostgreSQL · Redis · Docker |
-| **[hayattan.net](https://github.com/EnesKotay/hayattan)**<br>[Live site ↗](https://hayattan.net) | A content platform built from scratch, featuring server-side rendering, an admin panel for content management, and PDF export. | TypeScript · Next.js · Tailwind CSS · Prisma · PostgreSQL |
-| **[FitMentor](https://github.com/EnesKotay/Fitness_App)** | An AI-powered mobile fitness assistant with workout planning, progress tracking, and on-device image classification. | Flutter · Dart · Supabase · TensorFlow Lite |
-| **[Teknofest AGV](https://github.com/EnesKotay/teknofest-agv-explore)** | An autonomous exploration robot using frontier-based exploration, real-time SLAM mapping, and Nav2 navigation. | ROS 2 · Python · C++ · SLAM · Nav2 |
+| **[Otizm Destek Platformu](https://github.com/EnesKotay/otizm-destek-platformu)**<br>[Canlı uygulama ↗](https://otizm-destek-platformu.vercel.app) | Otizmli çocukların ailelerini, terapistleri ve doktorları buluşturan destek platformu. Rol tabanlı yetkilendirme, gelişim takibi, randevu ve BEP raporu yönetimi ile Gemini destekli davranış örüntüsü analizi sunar. | Java 21 · Spring Boot 3 · React 18 · Vite · TypeScript · PostgreSQL · Redis · Docker |
+| **[hayattan.net](https://github.com/EnesKotay/hayattan)**<br>[Canlı site ↗](https://hayattan.net) | Sıfırdan geliştirdiğim içerik platformu. Sunucu tarafında render, yönetim paneli üzerinden içerik yönetimi ve PDF çıktısı desteği sunar. | TypeScript · Next.js · Tailwind CSS · Prisma · PostgreSQL |
+| **[FitMentor](https://github.com/EnesKotay/Fitness_App)** | Antrenman planlama, ilerleme takibi ve cihaz üzerinde görüntü sınıflandırma özelliklerine sahip, yapay zekâ destekli mobil antrenman asistanı. | Flutter · Dart · Supabase · TensorFlow Lite |
+| **[Teknofest AGV](https://github.com/EnesKotay/teknofest-agv-explore)** | Sınır tabanlı keşif algoritması, SLAM ile gerçek zamanlı haritalama ve Nav2 ile otonom navigasyon kullanan keşif robotu. | ROS 2 · Python · C++ · SLAM · Nav2 |
 
-## Tech Stack
+## Kullandığım Teknolojiler
 
-| Area | Technologies |
+| Alan | Teknolojiler |
 | --- | --- |
-| Languages | TypeScript · JavaScript · Java · Dart · Python · C# · C++ |
+| Programlama Dilleri | TypeScript · JavaScript · Java · Dart · Python · C# · C++ |
 | Frontend | React · Next.js · Vite · Tailwind CSS |
 | Backend | Spring Boot · Node.js · Express |
-| Mobile | Flutter |
-| Data | PostgreSQL · Redis · Prisma · Supabase |
-| Tools & Infrastructure | Docker · Git · Linux |
+| Mobil | Flutter |
+| Veri Yönetimi | PostgreSQL · Redis · Prisma · Supabase |
+| Araçlar ve Altyapı | Docker · Git · Linux |
 
-## Current Focus
+## Güncel Odağım
 
-- Developing Otizm Destek Platformu and expanding its capabilities.
-- Adding new AI features to FitMentor.
-- Deepening my knowledge of software architecture and system design.
+- Otizm Destek Platformu'nu geliştirmeye ve yeni özellikler eklemeye devam ediyorum.
+- FitMentor'a yeni yapay zekâ özellikleri ekliyorum.
+- Yazılım mimarisi ve sistem tasarımı üzerine çalışıyorum.
 
-Open to open-source contributions and collaboration. [Get in touch →](mailto:eneskotay23@gmail.com)
+Açık kaynak katkılarına ve iş birliklerine açığım. [İletişime geç →](mailto:eneskotay23@gmail.com)
